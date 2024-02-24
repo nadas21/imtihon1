@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+  background-image: url(./img/kitob.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+.img1{
+    margin-top: 198px;
+
+}
+.email{
+    margin-top: 51px;
+    width: 230px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    border: 1px solid #FFF;
+    background: transparent;
+    font-family: Montserrat;
+    font-size: 12px;
+    color: aliceblue;
+    padding: 0px 30px ;
+    background-image: url(./img/user.svg);
+    background-repeat: no-repeat ;
+}
+.password{
+    margin-top: 20px;
+    width: 230px;
+    height: 30px;
+    border-radius: 3px;
+    border: 1px solid #FFF;
+    background: transparent;
+    font-family: Montserrat;
+    font-size: 12px;
+    color: aliceblue;
+    padding: 0px 30px;
+    background-image: url(./img/lock.svg);
+    background-repeat: no-repeat;
+} 
+.btn{
+    width: 230px;
+    height: 30px;
+    margin-top: 43px;
+    border-radius: 3px;
+    border: none;
+    color: #0D75FF;
+}
+.harf{
+    margin-left: 130px;
+    margin-top: 11px;
+    color: aliceblue;
+}
